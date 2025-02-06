@@ -38,11 +38,8 @@ sass:
 #bing-verify:
 #email:
 twitter: "https://x.com/intent/post?text=I%20just%20voted%20for%20the%20liveatPC.com%20Awards%202025!%20Who%20do%20you%20think%20will%20win%253F%20Cast%20your%20vote%20now!%20%F0%9F%8E%89%20%2523PCcomAwards2025%20https%3A%2F%2Femptycrwn.github.io%2FPcAwards2025%2F"
-facebook: "https://www.facebook.com/sharer/sharer.php?u=https://emptycrwn.github.io/PcAwards2025/&quote=I%20just%20voted%20for%20the%20PC.com%20Awards%202025!%20Who%20do%20you%20think%20will%20win?%20Cast%20your%20vote%20now!%20🎉%20" class="facebook" target="_blank"
-#github-url: username
-#stackoverflow: 123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin: "https://www.linkedin.com/sharing/share-offsite/?url=https://emptycrwn.github.io/PcAwards2025/" class="linkedin" target="_blank"
-#xing: username
+facebook: "https://www.facebook.com/sharer/sharer.php?u=https://emptycrwn.github.io/PcAwards2025/&quote=I%20just%20voted%20for%20the%20PC.com%20Awards%202025!%20Who%20do%20you%20think%20will%20win?%20Cast%20your%20vote%20now!%20🎉%20"
+linkedin: "https://www.linkedin.com/sharing/share-offsite/?url=https://emptycrwn.github.io/PcAwards2025/"
 instagram: "https://www.instagram.com/"
 #lastfm: username
 #tumblr: username
