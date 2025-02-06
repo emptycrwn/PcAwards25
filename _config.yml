@@ -4,7 +4,7 @@ bio: "Want to win a brand new <strong>lorem-ipsum?</strong>"
 description: "Share your vote to increase your chances!"
 reading_time: true
 words_per_minute: 200
-logo: "https://scontent.fkul3-4.fna.fbcdn.net/v/t39.30808-6/278842813_398712408926585_2109970585234135621_n.png?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=X0yHc7uq_8QQ7kNvgFYwLDL&_nc_zt=23&_nc_ht=scontent.fkul3-4.fna&_nc_gid=ALXK6j4lSUpaY8w_dcGnXFt&oh=00_AYDHvtYDPoAGaUF-CKRnIryzl9vpB-uHMjXwVU5FbPmkCQ&oe=67A9F75C"
+logo: "X"
 background: "assets/img/moonrise-background.jpg"
 tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
 locale: en_US
@@ -37,9 +37,9 @@ sass:
 #ad-slot:
 #bing-verify:
 #email:
-twitter: "https://x.com/intent/post?text=I%20just%20voted%20for%20the%20liveatPC.com%20Awards%202025!%20Who%20do%20you%20think%20will%20win%253F%20Cast%20your%20vote%20now!%20%F0%9F%8E%89%20%2523PCcomAwards2025%20https%3A%2F%2Femptycrwn.github.io%2FPcAwards2025%2F"
-facebook: "https://www.facebook.com/sharer/sharer.php?u=https://emptycrwn.github.io/PcAwards2025/&quote=I%20just%20voted%20for%20the%20PC.com%20Awards%202025!%20Who%20do%20you%20think%20will%20win?%20Cast%20your%20vote%20now!%20🎉%20"
-linkedin: "https://www.linkedin.com/sharing/share-offsite/?url=https://emptycrwn.github.io/PcAwards2025/"
+twitter: "j"
+facebook: "h"
+linkedin: "i"
 instagram: "https://www.instagram.com/"
 #lastfm: username
 #tumblr: username
